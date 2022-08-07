@@ -1,0 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
+.invalid {
+  outline: 1px red solid;
+}
